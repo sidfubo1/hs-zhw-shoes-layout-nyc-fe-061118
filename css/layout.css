@@ -26,6 +26,7 @@
 
 .shadow {
   float: left;
+  overflow: auto;
 }
 
 
