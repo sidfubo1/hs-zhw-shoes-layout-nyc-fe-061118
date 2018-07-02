@@ -303,4 +303,8 @@ footer a {
   text-decoration: underline;
 }
 
+tr {
+  padding: 0;
+}
+
 /* code examples copyright Jonathan Grover 2012 */
