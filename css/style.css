@@ -307,4 +307,7 @@ tr td {
   padding: 0;
 }
 
+.clearfix {
+  overflow: auto;
+}
 /* code examples copyright Jonathan Grover 2012 */
